@@ -1,0 +1,6 @@
+# HNG13 Stage 0 DevOps
+
+Name: Lutful-Mannan Ghazal  
+Slack Username: Lutful-MannanG 
+Project Description: A simple NGINX web server deployment for HNG13 DevOps Stage0  
+//Server URL/IP: http://[your-server-ip]  (add this after deployment)
