@@ -3,4 +3,4 @@
 Name: Lutful-Mannan Ghazal  
 Slack Username: Lutful-MannanG 
 Project Description: A simple NGINX web server deployment for HNG13 DevOps Stage0  
-//Server URL/IP: http://[your-server-ip]  (add this after deployment)
+//Server URL/IP: http://16.16.201.231 
